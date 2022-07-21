@@ -7,3 +7,5 @@ javaS-html-css3
 
 ...
 node.js
+
+--uso de consulta e estudo.
